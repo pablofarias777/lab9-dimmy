@@ -1,0 +1,87 @@
+{
+  "total_documents": 20,
+  "m": 32,
+  "ef_construction": 200,
+  "documents": [
+    {
+      "id": 0,
+      "text": "Paciente com cefaleia pulsátil hemicraniana, fotofobia e fonofobia, com aura visual escotomática prévia."
+    },
+    {
+      "id": 1,
+      "text": "Quadro de dispneia paroxística noturna associado a estertores bibasais e edema periférico compatível com congestão."
+    },
+    {
+      "id": 2,
+      "text": "Dor retroesternal em aperto irradiando para membro superior esquerdo, sudorese fria e náusea intensa."
+    },
+    {
+      "id": 3,
+      "text": "Poliúria, polidipsia e perda ponderal, com glicemia capilar persistentemente elevada e cetonúria discreta."
+    },
+    {
+      "id": 4,
+      "text": "Episódios de sibilância expiratória difusa com resposta parcial a broncodilatador beta-2 de curta duração."
+    },
+    {
+      "id": 5,
+      "text": "Lombalgia mecânica crônica sem sinais de radiculopatia, piora à flexoextensão e alívio em repouso relativo."
+    },
+    {
+      "id": 6,
+      "text": "Diarreia aquosa de início agudo sem sangue, com dor abdominal tipo cólica e desidratação leve."
+    },
+    {
+      "id": 7,
+      "text": "Exantema maculopapular pruriginoso pós-exposição medicamentosa, sem comprometimento de mucosas."
+    },
+    {
+      "id": 8,
+      "text": "Quadro de ansiedade generalizada com hiperatividade autonômica, insônia de manutenção e ruminação cognitiva."
+    },
+    {
+      "id": 9,
+      "text": "Otalgia unilateral com hiperemia de membrana timpânica e redução transitória da acuidade auditiva."
+    },
+    {
+      "id": 10,
+      "text": "Disúria terminal e urgência miccional com piúria em exame tipo I, sugestivo de infecção urinária baixa."
+    },
+    {
+      "id": 11,
+      "text": "Dor epigástrica em queimação pós-prandial tardia com melhora parcial após inibidor de bomba de prótons."
+    },
+    {
+      "id": 12,
+      "text": "Febre alta intermitente, mialgia intensa e plaquetopenia, com sorologia reagente para arbovirose."
+    },
+    {
+      "id": 13,
+      "text": "Rigidez matinal poliarticular superior a uma hora, edema de pequenas articulações e fator reumatoide positivo."
+    },
+    {
+      "id": 14,
+      "text": "Síncope vasovagal precedida de pródromos autonômicos, sem evidências de arritmia em monitorização inicial."
+    },
+    {
+      "id": 15,
+      "text": "Dermatite atópica em flexuras com liquenificação e prurido noturno de difícil controle clínico."
+    },
+    {
+      "id": 16,
+      "text": "Hematoquezia intermitente em paciente acima de 50 anos, demandando rastreio endoscópico de neoplasia."
+    },
+    {
+      "id": 17,
+      "text": "Rebaixamento do nível de consciência em contexto de hiponatremia grave e osmolaridade plasmática reduzida."
+    },
+    {
+      "id": 18,
+      "text": "Tosse seca persistente há oito semanas com radiografia sem infiltrado, hipótese de síndrome de gotejamento pós-nasal."
+    },
+    {
+      "id": 19,
+      "text": "Parestesia distal em padrão luva e bota, associada a neuropatia periférica de provável etiologia metabólica."
+    }
+  ]
+}
